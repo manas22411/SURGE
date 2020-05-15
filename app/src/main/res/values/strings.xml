@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">INNVOCON</string>
+    <string name="title1">WELCOME</string>
+    <string name="title2">HELP FULL</string>
+    <string name="title3">EVERYWHERE</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="college_names">
+        <item>DIT University</item>
+        <item>IMS University</item>
+        <item>Graphic Era</item>
+        <item>UPES College</item>
+    </string-array>
+
+</resources>
